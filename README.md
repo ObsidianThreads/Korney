@@ -2,6 +2,8 @@
 
 A digital archive of works and characters by the renowned Russian children's writer Korney Chukovsky, including his famous poems and stories that have delighted generations.
 
+<img width="993" height="847" alt="image" src="https://github.com/user-attachments/assets/1651448f-28d0-4dbb-bba4-42e9d423218f" />
+
 ## Obsidian Knowledge Base
 
 This collection is specifically designed as an Obsidian vault to explore and visualize the rich interconnected universe of Korney Chukovsky's literary works. The structure enables powerful graph connections that reveal relationships between characters, stories, and themes.
