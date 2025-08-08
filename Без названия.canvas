@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"type":"group","label":"Untitled group","id":"a10cde8bfc38861e","x":-1021,"y":-262,"width":2461,"height":1862},
+		{"type":"file","file":"Прочее/Корней Чуковский/Персонажи/акула Каракула.md","id":"e97f8fd5314407e4","x":-1001,"y":-242,"width":400,"height":400,"color":"5"},
+		{"type":"file","file":"Прочее/Корней Чуковский/Персонажи/бабушка Федора.md","id":"404072dea4794405","x":-331,"y":-242,"width":400,"height":400,"color":"5"},
+		{"type":"file","file":"Прочее/Корней Чуковский/Персонажи/Лёлёша.md","id":"bb67e72b3111c701","x":-1001,"y":240,"width":400,"height":400,"color":"5"},
+		{"type":"file","file":"Прочее/Корней Чуковский/Произведения/Айболит.md","id":"22a0fb07371b4325","x":-22,"y":348,"width":400,"height":400,"color":"5"},
+		{"type":"file","file":"Прочее/Корней Чуковский/Персонажи/Крокодил.md","id":"94a6506b5c2fb90a","x":837,"y":348,"width":400,"height":400,"color":"5"},
+		{"type":"file","file":"Прочее/Корней Чуковский/Персонажи/Айболит.md","id":"684df2c4f6fd0a4d","x":280,"y":-242,"width":400,"height":400,"color":"5"},
+		{"type":"file","file":"Прочее/Корней Чуковский/Персонажи/Крокодилица.md","id":"ee39f9baa5ebdff5","x":-22,"y":1024,"width":400,"height":400,"color":"5"}
+	],
+	"edges":[
+		{"id":"7ae476fceb4b4a16","fromNode":"94a6506b5c2fb90a","fromSide":"left","toNode":"22a0fb07371b4325","toSide":"right","label":"link 1"},
+		{"id":"fbb0200e1d6b0669","fromNode":"ee39f9baa5ebdff5","fromSide":"right","toNode":"94a6506b5c2fb90a","toSide":"bottom","label":"link 2"},
+		{"id":"4877e4b20f19ef41","fromNode":"ee39f9baa5ebdff5","fromSide":"top","toNode":"bb67e72b3111c701","toSide":"bottom"},
+		{"id":"1b3fbcba81a4d73f","fromNode":"bb67e72b3111c701","fromSide":"right","toNode":"404072dea4794405","toSide":"bottom"},
+		{"id":"7328a87a8d8f1015","fromNode":"404072dea4794405","fromSide":"right","toNode":"684df2c4f6fd0a4d","toSide":"left"},
+		{"id":"1df82ea63cfdbc87","fromNode":"684df2c4f6fd0a4d","fromSide":"bottom","toNode":"22a0fb07371b4325","toSide":"top"}
+	]
+}
